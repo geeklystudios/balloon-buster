@@ -1,4 +1,4 @@
-const chalk = require('chalk');
+console.log("const chalk = require('chalk');
 var type, name, numbers
 numbers = Math.random()
 
@@ -134,5 +134,4 @@ function draw() {
     }
   }
   drawSprites();
-}
-
+}")
